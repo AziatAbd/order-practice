@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/order-practice/static/css/main.6be44641.css",
+    "main.js": "/order-practice/static/js/main.b4d9fd7a.js",
+    "static/media/meals.jpg": "/order-practice/static/media/meals.46a522b40fd53b469b50.jpg",
+    "index.html": "/order-practice/index.html",
+    "main.6be44641.css.map": "/order-practice/static/css/main.6be44641.css.map",
+    "main.b4d9fd7a.js.map": "/order-practice/static/js/main.b4d9fd7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be44641.css",
+    "static/js/main.b4d9fd7a.js"
+  ]
+}
